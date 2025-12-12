@@ -88,11 +88,10 @@ Seoul.html:
 
 
 ## OUTPUT
-Screenshot 2025-12-12 135713.png 
-Screenshot 2025-12-12 135727.png 
-Screenshot 2025-12-12 135755.png 
-Screenshot 2025-12-12 135815.png
-
+![alt text](<Screenshot 2025-12-12 135713.png>)
+![alt text](<Screenshot 2025-12-12 135727.png>)
+ ![alt text](<Screenshot 2025-12-12 135755.png>)
+  ![alt text](<Screenshot 2025-12-12 135815.png>)
 
 
 
